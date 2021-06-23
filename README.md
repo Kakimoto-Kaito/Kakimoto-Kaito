@@ -5,5 +5,7 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat&logo=Xcode)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=VisualStudioCode)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=AmazonAWS)
+![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat&logo=AdobeIllustrator)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=AdobePhotoshop)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakimoto-Kaito&layout=compact&theme=tokyonight)](https://github.com/Kakimoto-Kaito/)
