@@ -8,4 +8,4 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat&logo=AdobeIllustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=AdobePhotoshop)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakimoto-Kaito&count_private=true&layout=compact&theme=tokyonight)](https://github.com/Kakimoto-Kaito/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakimoto-Kaito&layout=compact&theme=tokyonight)](https://github.com/Kakimoto-Kaito/)
