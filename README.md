@@ -8,4 +8,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat&logo=AdobeIllustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=AdobePhotoshop)
 
+### App Store
+[My app](https://apps.apple.com/developer/kaito-kakimoto/id1579269826)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakimoto-Kaito&layout=compact&theme=tokyonight)](https://github.com/Kakimoto-Kaito/)
